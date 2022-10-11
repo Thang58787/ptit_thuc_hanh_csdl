@@ -10,6 +10,7 @@ Nếu muốn sử dụng dòng lệnh thì thực hiện như sau:
 Sử dụng MobaXterm kết nối lab 192.168.0.105 bằng SSH.  
 Kết nối đến database bằng lệnh kết nối sau:  
 mysql -h 192.168.0.105 -D dblab -udblab.admin -p  
+
 1.1. Hiển thị phiên bản của database  
 1.2. Hiển thị danh sách database  
 1.3. Hiển thị danh sách các table của một database  
